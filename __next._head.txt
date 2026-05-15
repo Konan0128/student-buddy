@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[44719,["/_next/static/chunks/0ab.uo06l8zzp.js"],"ViewportBoundary"]
-3:I[44719,["/_next/static/chunks/0ab.uo06l8zzp.js"],"MetadataBoundary"]
+2:I[44719,["/student-buddy/_next/static/chunks/0ab.uo06l8zzp.js"],"ViewportBoundary"]
+3:I[44719,["/student-buddy/_next/static/chunks/0ab.uo06l8zzp.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-5:I[7172,["/_next/static/chunks/0ab.uo06l8zzp.js"],"IconMark"]
-0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"安安学姐 - 你的理财搭子"}],["$","meta","1",{"name":"description","content":"大学生专属AI理财陪伴伙伴"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L5","3",{}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"JhXO1aatl9UCPh2tGBI3v"}
+5:I[7172,["/student-buddy/_next/static/chunks/0ab.uo06l8zzp.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"安安学姐 - 你的理财搭子"}],["$","meta","1",{"name":"description","content":"大学生专属AI理财陪伴伙伴"}],["$","link","2",{"rel":"icon","href":"/student-buddy/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L5","3",{}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"rgeCi1jfa7ZqPlCHq3gtM"}
